@@ -26,12 +26,12 @@ A modern, responsive portfolio website showcasing my professional work, skills, 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/bharga264/quantum-glow-hub.git
+git clone https://github.com/bharga264/Bhargav_Portfolio-AI-.git
 ```
 
 2. Navigate to project directory:
 ```bash
-cd quantum-glow-hub
+cd BPK_Portfolio
 ```
 
 3. Install dependencies:
@@ -89,12 +89,8 @@ This will generate optimized files in the `dist` directory.
 
 MIT License - feel free to use this code for your own portfolio!
 
-## 👤 Contact
 
 Bhargav Prasad Kalichetti
-- LinkedIn: [Your LinkedIn]
-- GitHub: [@bharga264](https://github.com/bharga264)
-- Email: [Your Email]
 
 ---
 
